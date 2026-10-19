@@ -1,0 +1,17 @@
+{
+  "name": "Welcome to the Midnight Nursery",
+  "short_name": "Midnight Nursery",
+  "description": "An interactive bedtime sanctuary with Pip, where calm thoughts soften into lullabies and sweet dreams.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8f1",
+  "theme_color": "#a34063",
+  "icons": [
+    {
+      "src": "/pip_avatar_cloud.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
